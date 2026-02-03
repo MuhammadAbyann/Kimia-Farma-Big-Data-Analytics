@@ -1,10 +1,6 @@
 # Kimia-Farma-Big-Data-Analytics
 Big Data Analytics projects developed during Project-Based Internship Program by Rakamin Academy in collaboration with Kimia Farma.
-
-# Kimia Farma – Big Data Analytics Projects
-
-This repository contains multiple data analytics projects developed during the 
-Project-Based Internship Program by Rakamin Academy in collaboration with Kimia Farma.
+These projects demonstrate practical data analytics skills, including data preparation, dashboard development, and business insight generation.
 
 ## 📂 Projects Included
 
