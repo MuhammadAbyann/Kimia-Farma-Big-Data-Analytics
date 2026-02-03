@@ -47,9 +47,9 @@ The analysis was conducted using the following steps:
 
 3. **Feature Engineering**
    - Grouped products into business-relevant categories:
-     - *Beauty*
-     - *General Medicine*
-     - *Others*
+     - *Beauty: Marcks, Venus, Quinine, Proxicam*
+     - *General Medicine: Enkasari, Magasida, Paracetamol, Batugin, Fituno*
+     - *Others: Antasida, Antifect, Clopidogrel, Fitocare, Fluconazole, Morfina*
 
 4. **Data Visualization**
    - Built an interactive dashboard with filters for year and province
