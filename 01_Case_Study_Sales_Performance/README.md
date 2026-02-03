@@ -79,23 +79,7 @@ The analysis was conducted using the following steps:
 The interactive Looker Studio dashboard can be accessed here:
 
 ➡️ See dashboard link in:  
-`looker-studio/dashboard_link.txt`
-
----
-
-## 📁 Folder Structure
-01_Case_Study_Sales_Performance/
-│
-├── dataset/
-│ └── Kimia_Farma_Study_Case.xlsx
-│
-├── looker-studio/
-│ └── dashboard_link.txt
-│
-├── exports/
-│ └── Kimia_Farma_Sales_Performance_Dashboard.pdf
-│
-└── README.md
+`[looker-studio/dashboard_link.txt](https://lookerstudio.google.com/reporting/a414fd25-a54c-48f2-8684-b0a655da58c5)`
 
 ---
 
