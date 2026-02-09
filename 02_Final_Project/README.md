@@ -83,7 +83,7 @@ province, branch category, and date range.
 ---
 
 ## 🎥 Project Explanation Video
-[(Insert YouTube link here)](https://drive.google.com/drive/folders/1wiczC7tN0AC4CF_BtuLMZHH1gLeSCm_y?usp=drive_link)
+[(YouTube link here)](https://drive.google.com/drive/folders/1wiczC7tN0AC4CF_BtuLMZHH1gLeSCm_y?usp=drive_link)
 
 ---
 
